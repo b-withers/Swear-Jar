@@ -3,6 +3,10 @@ body{
     background-size: auto;
 }
 
+.page-header{
+    text-align: center;
+}
+
 .nickel{
 width: 205px;
 height: 200px;
