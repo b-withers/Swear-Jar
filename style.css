@@ -10,17 +10,17 @@ body{
 }
 
 .nickel{
-width: 175px;
-height: 170px;
+width: 145px;
+height: 140px;
 }
 
-.shownumber1{
+#shownumber1{
     text-align: center;
     font-family: 'PT Sans Caption', sans-serif;
     font-size: 25px;
 }
 
-.shownumber2{
+#shownumber2{
     text-align: center;
     font-family: 'PT Sans Caption', sans-serif;
     font-size: 25px;
@@ -28,5 +28,11 @@ height: 170px;
 .quarter{
  width: 170px;
 height: 170px;   
+}
+
+.total{
+    text-align: center;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 25px;
 }
 
