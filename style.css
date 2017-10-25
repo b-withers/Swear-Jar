@@ -1,12 +1,10 @@
-body{
-    background-image: url("bg.jpg");
-    background-size: auto;
-}
 
-.page-header{
+
+.page{
     text-align: center;
-    color: white;
-    font-family: 'PT Sans Caption', sans-serif;
+    color: red;
+    font-family: 'Rock Salt', cursive;
+
 }
 
 .nickel{
@@ -16,13 +14,15 @@ height: 140px;
 
 #shownumber1{
     text-align: center;
-    font-family: 'PT Sans Caption', sans-serif;
+    font-family: 'Rock Salt', cursive;
+color: red;
     font-size: 25px;
 }
 
 #shownumber2{
     text-align: center;
-    font-family: 'PT Sans Caption', sans-serif;
+    font-family: 'Rock Salt', cursive;
+color: red;
     font-size: 25px;
 }
 .quarter{
@@ -32,7 +32,22 @@ height: 170px;
 
 .total{
     text-align: center;
-    font-family: 'PT Sans Caption', sans-serif;
+    font-family: 'Rock Salt', cursive;
+color: red;
     font-size: 25px;
 }
 
+#bomb{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 22px;
+    left: 190px;
+}
+
+.total1{
+    text-align: center;
+    font-family: 'Rock Salt', cursive;
+color: red;
+    font-size: 25px;
+}
